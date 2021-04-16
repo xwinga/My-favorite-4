@@ -127,3 +127,7 @@ img {
 img:hover {
     transform: scale(0.9);
 }
+#sectionn {
+    background-color:chartreuse;
+    text-align:center;
+}
